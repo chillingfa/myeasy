@@ -36,10 +36,10 @@
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 448,
-            "modifiedTime": 1538556641598,
-            "changeTime": 1538556641598,
-            "contentHash": "039621bc8cebadc51f8cf0f0c0c228f5e0005b18"
+            "size": 512,
+            "modifiedTime": 1538561529766,
+            "changeTime": 1538561529766,
+            "contentHash": "cd38d1b0c66b62797c2e7c863ed70b8a7dfe65c4"
         }
     ],
     [
@@ -49,10 +49,10 @@
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1538556641525,
-            "changeTime": 1538556641525,
-            "contentHash": "bab6cb7eb06bde11a8417b40c809b50a3e02c3f8"
+            "size": 352,
+            "modifiedTime": 1538561529758,
+            "changeTime": 1538561529758,
+            "contentHash": "089a0742a9d8a277f309837a4529c8f6b6310ef4"
         }
     ],
     [
@@ -60,14 +60,13 @@
         {
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy",
             "isDirectory": true,
-            "size": 256,
-            "modifiedTime": 1538538814561,
-            "changeTime": 1538538814561,
-            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "size": 320,
+            "modifiedTime": 1538557042470,
+            "changeTime": 1538557042470,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -75,10 +74,10 @@
         {
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/globalValueSets/Country.globalValueSet-meta.xml",
             "isDirectory": false,
-            "size": 1392,
-            "modifiedTime": 1538541208347,
-            "changeTime": 1538541208347,
-            "contentHash": "4fec879bc72202e1cfd0ea9c45875fa0b8bf5cc0",
+            "size": 1338,
+            "modifiedTime": 1538544532744,
+            "changeTime": 1538544532744,
+            "contentHash": "3c08782ca82cca4fd7569a2c23f00bce6623f3d4",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -114,10 +113,10 @@
         {
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/globalValueSets/Reservation_Status.globalValueSet-meta.xml",
             "isDirectory": false,
-            "size": 1097,
-            "modifiedTime": 1538541208360,
-            "changeTime": 1538541208360,
-            "contentHash": "a72b08cda30c9144be22d7229e56ece90ffbfb69",
+            "size": 1057,
+            "modifiedTime": 1538544557348,
+            "changeTime": 1538544557348,
+            "contentHash": "c2ba1727bf103c2ab49de4c4754766d028de20f1",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -632,53 +631,53 @@
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10689,
             "modifiedTime": 1538556641547,
             "changeTime": 1538556641547,
-            "contentHash": "e24b36fe41b654bb7ea07d5c5397381105d6ee89"
+            "contentHash": "e24b36fe41b654bb7ea07d5c5397381105d6ee89",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 25087,
             "modifiedTime": 1538556641583,
             "changeTime": 1538556641583,
-            "contentHash": "b71adb129ba6b73d774683faa39dcfa1052b93db"
+            "contentHash": "b71adb129ba6b73d774683faa39dcfa1052b93db",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 11025,
             "modifiedTime": 1538556641590,
             "changeTime": 1538556641590,
-            "contentHash": "4f38f79b90ccfecdb476aefa76d70c49eb712653"
+            "contentHash": "4f38f79b90ccfecdb476aefa76d70c49eb712653",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10685,
             "modifiedTime": 1538556641597,
             "changeTime": 1538556641597,
-            "contentHash": "8c7f092314c18309a3a8bcc03f282ca48c564916"
+            "contentHash": "8c7f092314c18309a3a8bcc03f282ca48c564916",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -827,14 +826,14 @@
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/tabs",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1538556641529,
             "changeTime": 1538556641529,
-            "contentHash": "03f0b01577c78aacd146f5f12f88a3b847bbd931"
+            "contentHash": "03f0b01577c78aacd146f5f12f88a3b847bbd931",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1089,10 +1088,10 @@
         {
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/classes",
             "isDirectory": true,
-            "size": 192,
-            "modifiedTime": 1538551253226,
-            "changeTime": 1538551253226,
-            "contentHash": "db8d4fb2830b729e355c21338865355650835a05",
+            "size": 256,
+            "modifiedTime": 1538557070449,
+            "changeTime": 1538557070449,
+            "contentHash": "d5a04d3553b138a27ad9f7ee49d65723d30fe507",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1113,183 +1112,183 @@
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1538556641520,
             "changeTime": 1538556641520,
-            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerList/customerList.design",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerList/customerList.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 186,
             "modifiedTime": 1538556641521,
             "changeTime": 1538556641521,
-            "contentHash": "3c5e3425150d89b530acb0ce30a2e09027678127"
+            "contentHash": "3c5e3425150d89b530acb0ce30a2e09027678127",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerList/customerListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerList/customerListController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 630,
             "modifiedTime": 1538556641521,
             "changeTime": 1538556641521,
-            "contentHash": "831b1fff8a1dbca2f20d592587de601cac18ff84"
+            "contentHash": "831b1fff8a1dbca2f20d592587de601cac18ff84",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 729,
             "modifiedTime": 1538556641521,
             "changeTime": 1538556641521,
-            "contentHash": "152622c26ed9cdb2b9b19b99592039d3ed59081b"
+            "contentHash": "152622c26ed9cdb2b9b19b99592039d3ed59081b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerList/customerListHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerList/customerListHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 368,
             "modifiedTime": 1538556641522,
             "changeTime": 1538556641522,
-            "contentHash": "f199dea07c23eee1dac3d40025f53ee36e0c2c93"
+            "contentHash": "f199dea07c23eee1dac3d40025f53ee36e0c2c93",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1538556641523,
             "changeTime": 1538556641523,
-            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 58,
             "modifiedTime": 1538556641523,
             "changeTime": 1538556641523,
-            "contentHash": "1962a761f211c3ef3eaa4247df5d665f5eddf34d"
+            "contentHash": "1962a761f211c3ef3eaa4247df5d665f5eddf34d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1538556641524,
             "changeTime": 1538556641524,
-            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 999,
             "modifiedTime": 1538556641524,
             "changeTime": 1538556641524,
-            "contentHash": "8e7db2b407f16fcc9e34b0b9578ad7d978ba7de8"
+            "contentHash": "8e7db2b407f16fcc9e34b0b9578ad7d978ba7de8",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1309,
             "modifiedTime": 1538556641524,
             "changeTime": 1538556641524,
-            "contentHash": "01fb95afcc7f61f980863acad9612fdb37628860"
+            "contentHash": "01fb95afcc7f61f980863acad9612fdb37628860",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1076,
             "modifiedTime": 1538556641524,
             "changeTime": 1538556641524,
-            "contentHash": "62e9f3e2f28304c34dc10043501d2f034503c355"
+            "contentHash": "62e9f3e2f28304c34dc10043501d2f034503c355",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1538556641525,
             "changeTime": 1538556641525,
-            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerTile/customerTileController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerTile/customerTileController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1311,
             "modifiedTime": 1538556641525,
             "changeTime": 1538556641525,
-            "contentHash": "f5a4c28fef9facaffc87de7a20db07fa68d2ba0a"
+            "contentHash": "f5a4c28fef9facaffc87de7a20db07fa68d2ba0a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerTile/customerTileHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerTile/customerTileHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 651,
             "modifiedTime": 1538556641525,
             "changeTime": 1538556641525,
-            "contentHash": "6277c91839f1cc0744b18b5e9a8b60f10b899cb3"
+            "contentHash": "6277c91839f1cc0744b18b5e9a8b60f10b899cb3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1299,127 +1298,127 @@
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1600,
-            "modifiedTime": 1538556641526,
-            "changeTime": 1538556641526,
-            "contentHash": "7368b83da99efba171114d33f02adb117a95586c"
+            "size": 1590,
+            "modifiedTime": 1538561529748,
+            "changeTime": 1538561529748,
+            "contentHash": "cfe84e2252f1a87772dbe02d0aedb16803021354"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/flexipages/Space_Management_UtilityBar.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/flexipages/Space_Management_UtilityBar.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 390,
             "modifiedTime": 1538556641526,
             "changeTime": 1538556641526,
-            "contentHash": "e06a9729bbf240982a024a16f80809dff4655de2"
+            "contentHash": "e06a9729bbf240982a024a16f80809dff4655de2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/flexipages/Reservation_Manager.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/flexipages/Reservation_Manager.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1153,
             "modifiedTime": 1538556641528,
             "changeTime": 1538556641528,
-            "contentHash": "63a6c155682e6089824435a9d4373f29e2235ae8"
+            "contentHash": "63a6c155682e6089824435a9d4373f29e2235ae8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/tabs/Reservation_Manager.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/tabs/Reservation_Manager.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 331,
             "modifiedTime": 1538556641529,
             "changeTime": 1538556641529,
-            "contentHash": "ff59253ff62b1a4999153db863861be85d55911c"
+            "contentHash": "ff59253ff62b1a4999153db863861be85d55911c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/applications/Space_Management.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/applications/Space_Management.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1498,
             "modifiedTime": 1538556641530,
             "changeTime": 1538556641530,
-            "contentHash": "c3eaeac1f40cc6a11be353ff1d4ac6e4ba9bf848"
+            "contentHash": "c3eaeac1f40cc6a11be353ff1d4ac6e4ba9bf848",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/contentassets/Picture1.asset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/contentassets/Picture1.asset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 529,
             "modifiedTime": 1538556641598,
             "changeTime": 1538556641598,
-            "contentHash": "4635156374d7680b4243fafef36b0ac4c12fc5dc"
+            "contentHash": "4635156374d7680b4243fafef36b0ac4c12fc5dc",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/contentassets/Picture1.asset",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/contentassets/Picture1.asset",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 292426,
             "modifiedTime": 1538556641599,
             "changeTime": 1538556641599,
-            "contentHash": "a9456b80338e2b4f37559c3804c941ab6f7f77ac"
+            "contentHash": "a9456b80338e2b4f37559c3804c941ab6f7f77ac",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerList",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1538556641522,
             "changeTime": 1538556641522,
-            "contentHash": "b5c213d13d76df90d4462131a018318545af2ad9"
+            "contentHash": "b5c213d13d76df90d4462131a018318545af2ad9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerListHarnessApp",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerListHarnessApp",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1538556641523,
             "changeTime": 1538556641523,
-            "contentHash": "f4c17d44da5ac48d8c537d1fb2da17a3a275f4fa"
+            "contentHash": "f4c17d44da5ac48d8c537d1fb2da17a3a275f4fa",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/reservationHelper",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/reservationHelper",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1538556641524,
             "changeTime": 1538556641524,
-            "contentHash": "e14a5c0dee87372f52d8a7288d8ab15b5b9b5912"
+            "contentHash": "e14a5c0dee87372f52d8a7288d8ab15b5b9b5912",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1429,49 +1428,439 @@
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerTile",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1538556641525,
-            "changeTime": 1538556641525,
-            "contentHash": "5d6ec868b1822a6e09cbf3669530d73aebc057e9"
+            "size": 256,
+            "modifiedTime": 1538561529748,
+            "changeTime": 1538561529748,
+            "contentHash": "f1d9caef07bcfd247f85ecedfa7dd55f1227cf26"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/flexipages",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1538556641528,
             "changeTime": 1538556641528,
-            "contentHash": "39e1472f6b460f4fe240d4def5990e32a3498957"
+            "contentHash": "39e1472f6b460f4fe240d4def5990e32a3498957",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/applications",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/applications",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1538556641530,
             "changeTime": 1538556641530,
-            "contentHash": "158c976a36a87f116211b68b6b287be4ac5f9591"
+            "contentHash": "158c976a36a87f116211b68b6b287be4ac5f9591",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/contentassets",
         {
-            "state": "u",
             "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/contentassets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1538556641599,
             "changeTime": 1538556641599,
-            "contentHash": "dfdc138c824c8140c5c3e58bc68aef48022dae89"
+            "contentHash": "dfdc138c824c8140c5c3e58bc68aef48022dae89",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/classes/marketServices.cls",
+        {
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/classes/marketServices.cls",
+            "isDirectory": false,
+            "size": 549,
+            "modifiedTime": 1538557126150,
+            "changeTime": 1538557126150,
+            "contentHash": "fd202c66585dbc7cc79eefd648a6674a8c7d7b72",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/classes/marketServices.cls-meta.xml",
+        {
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/classes/marketServices.cls-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1538557070449,
+            "changeTime": 1538557070449,
+            "contentHash": "235360b89344e808b3c96f5056058cd6fa09d6ad",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538561529740,
+            "changeTime": 1538561529740,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerService/customerServiceController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerService/customerServiceController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 617,
+            "modifiedTime": 1538561529742,
+            "changeTime": 1538561529742,
+            "contentHash": "44afc7284de6fd0213679f0b9176f772e5c62fe8"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 359,
+            "modifiedTime": 1538561529743,
+            "changeTime": 1538561529743,
+            "contentHash": "47f3eddcb20658074618f60502b2e7f9f98fdad1"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538561529745,
+            "changeTime": 1538561529745,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 516,
+            "modifiedTime": 1538561529745,
+            "changeTime": 1538561529745,
+            "contentHash": "6155a39f4ffe92d8e7fcc3cc4d452b39e64b6e5c"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/marketService/marketServiceController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/marketService/marketServiceController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1125,
+            "modifiedTime": 1538561529745,
+            "changeTime": 1538561529745,
+            "contentHash": "2324e9e70036dfbce0395798b9ebd450136ec42a"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1538561529747,
+            "changeTime": 1538561529747,
+            "contentHash": "d0840adc26bdefc45e4f8b1ca115367324a16255"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1538561529747,
+            "changeTime": 1538561529747,
+            "contentHash": "da4ba034b791b95d7917cc9488a690f2b7d81c18"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538561529749,
+            "changeTime": 1538561529749,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1538561529750,
+            "changeTime": 1538561529750,
+            "contentHash": "71c611eef7647e56d00005513d8e014608317cef"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordActionController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordActionController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 579,
+            "modifiedTime": 1538561529751,
+            "changeTime": 1538561529751,
+            "contentHash": "4429cdefd86da55ecd225ebceb13f0bfe1e345bd"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 258,
+            "modifiedTime": 1538561529752,
+            "changeTime": 1538561529752,
+            "contentHash": "856261b282d496b811c6bd9b3da772b512a49c42"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538561529754,
+            "changeTime": 1538561529754,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 471,
+            "modifiedTime": 1538561529755,
+            "changeTime": 1538561529755,
+            "contentHash": "2465c24ffc15a2d566040b5c5af8bd51c8b3d804"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 739,
+            "modifiedTime": 1538561529755,
+            "changeTime": 1538561529755,
+            "contentHash": "c6b33099e04811a813939cf2fe9482493298529c"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1818,
+            "modifiedTime": 1538561529755,
+            "changeTime": 1538561529755,
+            "contentHash": "f5235c3b6294a936c822059c3c2f2cd73d66f88f"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4277,
+            "modifiedTime": 1538561529757,
+            "changeTime": 1538561529757,
+            "contentHash": "dfeaa601fdfb11dc5df25989e61c18aae37b060d"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538561529759,
+            "changeTime": 1538561529759,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 181,
+            "modifiedTime": 1538561529759,
+            "changeTime": 1538561529759,
+            "contentHash": "3c2a958917f01d4e5d49610e01c514e1c3a3ad8e"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/flows/Create_Reservation-1.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/flows/Create_Reservation-1.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11176,
+            "modifiedTime": 1538561529765,
+            "changeTime": 1538561529765,
+            "contentHash": "fd481ce1e4dd15c7c054c1ffece3b56b7fae1ce6"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/flowDefinitions/Create_Reservation.flowDefinition-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/flowDefinitions/Create_Reservation.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 171,
+            "modifiedTime": 1538561529767,
+            "changeTime": 1538561529767,
+            "contentHash": "84016bd12773aae2340e6057aede8139cb16f930"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerService",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerService",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1538561529743,
+            "changeTime": 1538561529743,
+            "contentHash": "18684102a7cb0b8d23d4082c21d7c56710f93020"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/marketService",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/marketService",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1538561529745,
+            "changeTime": 1538561529745,
+            "contentHash": "236380a092cbeeff756e489e78ba6b93a6c1eed7"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/openRecordAction",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/openRecordAction",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1538561529752,
+            "changeTime": 1538561529752,
+            "contentHash": "7321c378df769877e40355f5bfce9a1b58e27b86"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerDetails",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/customerDetails",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1538561529757,
+            "changeTime": 1538561529757,
+            "contentHash": "90c25825552f67096b05b6a3bb72ad590d311435"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/muteTiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/aura/muteTiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538561529759,
+            "changeTime": 1538561529759,
+            "contentHash": "0a75aa075d8e180e02b29af9db3e9075b9db772e"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/flows",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1538561529765,
+            "changeTime": 1538561529765,
+            "contentHash": "03597716608acc3fe4370c78615c0b51502dc08b"
+        }
+    ],
+    [
+        "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/flowDefinitions",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kanlayaaungulavasapol 1/dev/myeasy/force-app/main/default/flowDefinitions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1538561529767,
+            "changeTime": 1538561529767,
+            "contentHash": "660d93f5f527458cf9c9c83794efbc5a7169e5e4"
         }
     ]
 ]
